@@ -1,6 +1,6 @@
-Certainly! Deploying a Flask application on Google Cloud Run involves a few additional steps compared to App Engine, mainly around containerization. Below are the steps to deploy your application on Google Cloud Run:
-
 ## Deploying Flask App on Google Cloud Run
+
+<img src=cover.png>
 
 ### Prerequisites
 
